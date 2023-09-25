@@ -1,1 +1,0 @@
-# Programmnaya_inzheneriya
